@@ -1,1 +1,0 @@
-# learningjs-d6
